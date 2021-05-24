@@ -8,3 +8,9 @@ Your keyboard is in "bluetooth" mode. Hit Pn-2 to put it in USB mode and your co
 
 Solid blue light on light #2
 
+# I came back to my computer and my keyboard isn't working..
+Press the right half of the keyboard is what powers it, so press a key on the right half to get it to turn back on.
+
+
+
+
